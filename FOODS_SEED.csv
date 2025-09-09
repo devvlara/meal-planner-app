@@ -1,0 +1,163 @@
+name,brand,serving_size_g,serving_desc,calories_per_serving,protein_g,carbs_g,fat_g
+"Chicken breast, cooked",,100,100 g,165,31.0,0.0,3.6
+"Chicken thigh, cooked, skinless",,100,100 g,209,26.0,0.0,10.9
+"Turkey breast, cooked",,100,100 g,135,29.0,0.0,1.0
+"Ground turkey 93% lean, cooked",,100,100 g,171,23.0,0.0,8.0
+"Lean ground beef 90% lean, cooked",,100,100 g,217,26.0,0.0,12.0
+"Sirloin steak, cooked",,100,100 g,242,27.0,0.0,14.0
+"Pork loin chop, cooked",,100,100 g,242,27.0,0.0,14.0
+"Pork tenderloin, cooked",,100,100 g,195,29.0,0.0,8.0
+"Ham, sliced, lean",,56,2 oz (56 g),70,10.0,1.0,3.0
+"Bacon, cooked",,16,1 slice (16 g),80,5.0,0.1,7.0
+"Egg, large",,50,1 large egg (50 g),72,6.3,0.4,4.8
+"Egg whites, liquid",,46,3 tbsp (46 g),25,5.5,0.4,0.0
+"Canned tuna in water, drained",,85,3 oz (85 g),100,22.0,0.0,0.8
+"Canned salmon, drained",,85,3 oz (85 g),118,20.0,0.0,4.0
+"Salmon, cooked",,100,100 g,206,22.0,0.0,13.0
+"Cod, cooked",,100,100 g,105,23.0,0.0,0.9
+"Tilapia, cooked",,100,100 g,128,26.0,0.0,2.7
+"Shrimp, cooked",,85,3 oz (85 g),84,18.0,0.2,0.6
+"Scallops, cooked",,85,3 oz (85 g),95,17.0,5.0,0.6
+"Tofu, firm",,85,3 oz (85 g),70,8.0,2.0,4.0
+Tempeh,,84,3 oz (84 g),160,15.0,9.0,7.0
+Seitan,,85,3 oz (85 g),130,21.0,8.0,2.0
+"Edamame, shelled, cooked",,100,100 g,121,12.0,9.9,5.2
+"Cottage cheese, low-fat (2%)",,113,1/2 cup (113 g),92,12.5,4.6,2.5
+"Greek yogurt, plain nonfat",,170,170 g container,100,17.0,6.0,0.0
+"Greek yogurt, plain 2%",,170,170 g container,130,16.0,6.0,4.0
+Skim milk,,244,1 cup (244 g),83,8.0,12.0,0.2
+Whole milk,,244,1 cup (244 g),149,7.7,12.0,8.0
+"String cheese, part-skim",,28,1 stick (28 g),80,7.0,1.0,6.0
+Cheddar cheese,,28,1 oz (28 g),113,7.0,0.4,9.0
+"Mozzarella, part-skim",,28,1 oz (28 g),85,7.0,1.0,6.0
+"Oats, dry",,40,40 g (1/2 cup dry),150,5.0,27.0,3.0
+"Rice, white cooked",,158,1 cup cooked (158 g),205,4.2,45.0,0.4
+"Rice, brown cooked",,195,1 cup cooked (195 g),216,5.0,45.0,1.8
+"Quinoa, cooked",,185,1 cup cooked (185 g),222,8.0,39.0,3.6
+"Pasta, cooked",,140,1 cup (140 g),221,8.0,43.0,1.3
+"Whole-wheat pasta, cooked",,140,1 cup (140 g),174,7.5,37.0,0.8
+"Bread, whole wheat",,28,1 slice (28 g),110,4.0,19.0,1.0
+"Bread, sourdough",,45,1 slice (45 g),120,4.0,22.0,1.0
+"Tortilla, flour 8-inch",,49,1 tortilla (49 g),150,4.0,26.0,4.0
+"Tortilla, corn 6-inch",,28,1 tortilla (28 g),60,1.5,12.0,1.0
+"Potato, baked",,173,1 medium (173 g),161,4.3,37.0,0.2
+"Sweet potato, baked",,130,1 medium (130 g),112,2.0,26.0,0.1
+"Breakfast cereal, corn flakes",,28,1 cup (28 g),101,2.1,24.0,0.0
+"Breakfast cereal, bran flakes",,40,3/4 cup (40 g),150,5.0,34.0,1.0
+Granola,,60,1/2 cup (60 g),260,6.0,36.0,10.0
+"Bagel, plain",,98,1 small (98 g),245,9.0,47.0,1.5
+"English muffin, whole wheat",,57,1 muffin (57 g),134,5.0,26.0,1.0
+"Couscous, cooked",,157,1 cup (157 g),176,6.0,36.0,0.3
+"Barley, cooked",,157,1 cup (157 g),193,3.5,44.0,0.7
+"Bulgur, cooked",,182,1 cup (182 g),151,5.6,34.0,0.4
+"Farro, cooked",,170,1 cup (170 g),200,7.0,40.0,1.0
+"Black beans, canned, drained",,130,1/2 cup (130 g),114,7.0,20.0,0.4
+"Pinto beans, canned, drained",,130,1/2 cup (130 g),118,7.0,21.0,0.5
+"Chickpeas, canned, drained",,130,1/2 cup (130 g),135,7.0,22.0,2.1
+"Lentils, cooked",,198,1 cup (198 g),230,18.0,40.0,0.8
+"Kidney beans, canned, drained",,130,1/2 cup (130 g),109,7.0,19.0,0.5
+"Peas, green, cooked",,160,1 cup (160 g),134,8.6,25.0,0.4
+Apple,,182,1 medium (182 g),95,0.5,25.0,0.3
+Banana,,118,1 medium (118 g),105,1.3,27.0,0.3
+Blueberries,,148,1 cup (148 g),84,1.1,21.0,0.5
+Strawberries,,152,1 cup (152 g),49,1.0,12.0,0.5
+Raspberries,,123,1 cup (123 g),64,1.5,15.0,0.8
+Blackberries,,144,1 cup (144 g),62,2.0,14.0,0.7
+Grapes,,151,1 cup (151 g),104,1.1,27.0,0.2
+Orange,,140,1 medium (140 g),69,1.3,17.0,0.2
+Clementine,,74,1 fruit (74 g),35,0.6,9.0,0.2
+"Pineapple, chunks",,165,1 cup (165 g),82,0.9,22.0,0.2
+Mango,,165,1 cup (165 g),99,1.4,25.0,0.6
+Watermelon,,154,1 cup (154 g),46,0.9,12.0,0.2
+Kiwi,,76,1 fruit (76 g),46,0.9,11.0,0.4
+Avocado,,100,100 g,160,2.0,9.0,15.0
+"Broccoli, raw",,91,1 cup chopped (91 g),31,2.5,6.0,0.3
+"Spinach, raw",,30,1 cup (30 g),7,0.9,1.1,0.1
+"Kale, raw",,67,1 cup chopped (67 g),33,2.9,6.7,0.6
+"Romaine lettuce, raw",,47,2 cups shredded (94 g),16,1.0,3.0,0.3
+"Arugula, raw",,20,2 cups (40 g),10,1.1,1.5,0.3
+Mixed salad greens,,85,3 cups (85 g),20,2.0,3.0,0.3
+"Tomato, raw",,123,1 medium (123 g),22,1.1,4.8,0.2
+Cherry tomatoes,,149,1 cup (149 g),27,1.3,6.0,0.3
+"Cucumber, peeled",,104,1 cup slices (104 g),16,0.8,3.8,0.1
+"Carrots, raw",,128,1 cup sticks (128 g),52,1.2,12.0,0.3
+"Bell pepper, red, raw",,119,1 cup slices (119 g),39,1.5,9.0,0.4
+"Onion, raw",,110,1 cup chopped (160 g),64,1.8,15.0,0.2
+"Zucchini, raw",,124,1 medium (196 g),33,2.4,6.1,0.6
+"Mushrooms, white, raw",,70,1 cup sliced (70 g),15,2.2,2.3,0.2
+"Green beans, cooked",,125,1 cup (125 g),44,2.4,10.0,0.3
+"Asparagus, cooked",,134,1 cup (134 g),27,3.0,5.0,0.2
+"Brussels sprouts, roasted",,88,1 cup (88 g),70,5.6,12.0,0.9
+"Cauliflower, raw",,107,1 cup chopped (107 g),27,2.1,5.3,0.3
+"Sweet corn, cooked",,166,1 cup (166 g),143,5.1,31.0,2.2
+"Beets, cooked",,136,1 cup (136 g),59,2.2,13.0,0.2
+Almonds,,28,1 oz (28 g),164,6.0,6.0,14.0
+Walnuts,,28,1 oz (28 g),185,4.3,3.9,18.5
+Cashews,,28,1 oz (28 g),157,5.0,9.0,12.0
+Pistachios,,28,1 oz (28 g),159,6.0,8.0,13.0
+"Peanuts, dry roasted",,28,1 oz (28 g),166,7.0,6.0,14.0
+Peanut butter,,32,2 tbsp (32 g),190,8.0,7.0,16.0
+Tahini,,28,1 tbsp (28 g),178,5.0,6.0,16.0
+Chia seeds,,28,2 tbsp (28 g),138,4.7,12.0,8.7
+"Flaxseed, ground",,14,1 tbsp (14 g),75,2.6,4.0,6.0
+"Sunflower seeds, kernels",,28,1 oz (28 g),166,5.5,6.0,14.0
+"Pumpkin seeds, kernels",,28,1 oz (28 g),158,8.5,4.2,13.0
+Olive oil,,14,1 tbsp (14 g),119,0.0,0.0,13.5
+Avocado oil,,14,1 tbsp (14 g),120,0.0,0.0,14.0
+"Butter, salted",,14,1 tbsp (14 g),102,0.1,0.0,11.5
+Mayonnaise,,13,1 tbsp (13 g),94,0.0,0.0,10.0
+Hummus,,28,2 tbsp (28 g),70,2.0,4.0,5.0
+Guacamole,,30,2 tbsp (30 g),50,1.0,3.0,4.0
+Salsa,,30,2 tbsp (30 g),10,0.5,2.0,0.0
+"Greek yogurt, vanilla",,170,170 g container,140,12.0,20.0,0.0
+"Protein powder, whey",,30,1 scoop (30 g),120,24.0,3.0,1.5
+"Protein bar, generic",,60,1 bar (60 g),220,20.0,24.0,7.0
+"Rotisserie chicken (light meat, no skin)",,85,3 oz (85 g),130,24.0,0.0,3.0
+Turkey deli slices,,56,2 oz (56 g),60,10.0,2.0,1.0
+Chicken sausage,,75,1 link (75 g),150,14.0,3.0,9.0
+Beef jerky,,28,1 oz (28 g),116,9.4,3.1,7.3
+Ketchup,,17,1 tbsp (17 g),20,0.2,5.0,0.0
+BBQ sauce,,37,2 tbsp (37 g),70,0.5,17.0,0.0
+Soy sauce,,16,1 tbsp (16 g),10,1.3,1.0,0.0
+Teriyaki sauce,,16,1 tbsp (16 g),17,0.3,3.4,0.1
+Hot sauce,,5,1 tsp (5 g),0,0.0,0.0,0.0
+"Yogurt, plain whole milk",,170,170 g,110,6.0,9.0,6.0
+"Almond milk, unsweetened",,240,1 cup (240 g),30,1.0,1.0,2.5
+"Oat milk, unsweetened",,240,1 cup (240 g),90,2.0,16.0,1.5
+"Soy milk, unsweetened",,240,1 cup (240 g),80,7.0,4.0,4.0
+"Rice, jasmine cooked",,140,1 cup (140 g),180,3.5,40.0,0.3
+"Rice, basmati cooked",,163,1 cup (163 g),191,3.8,39.0,0.6
+"Rice, brown instant cooked",,140,1 cup (140 g),154,3.5,32.0,1.2
+"Rice noodles, cooked",,140,1 cup (140 g),192,3.0,43.0,0.3
+"Soba noodles, cooked",,114,1 cup (114 g),113,6.0,24.0,0.1
+"Pita bread, whole wheat",,64,1 small (64 g),170,6.0,35.0,1.5
+"Naan bread, plain",,90,1/2 piece (90 g),260,8.0,42.0,7.0
+Rice cake,,9,1 cake (9 g),35,0.7,7.3,0.3
+"Pancake, plain",,50,1 small (50 g),112,3.0,20.0,2.0
+"Waffle, plain",,75,1 small (75 g),218,5.0,24.0,10.0
+Maple syrup,,20,1 tbsp (20 g),52,0.0,13.0,0.0
+All-purpose flour,,30,1/4 cup (30 g),110,3.2,23.2,0.3
+Whole wheat flour,,30,1/4 cup (30 g),110,4.0,23.0,0.5
+"Sugar, white",,4,1 tsp (4 g),16,0.0,4.0,0.0
+"Brown sugar, packed",,9,1 tsp (9 g),35,0.0,9.0,0.0
+Honey,,21,1 tbsp (21 g),64,0.1,17.0,0.0
+"Cocoa powder, unsweetened",,5,1 tbsp (5 g),12,1.0,3.0,0.7
+"Chocolate chips, semi-sweet",,28,1 oz (28 g),137,1.0,16.0,8.0
+"Chicken broth, low sodium",,240,1 cup (240 g),15,1.0,1.0,0.5
+"Tomato soup, condensed",,126,1/2 cup (126 g),90,2.0,20.0,0.5
+Black bean soup,,245,1 cup (245 g),245,12.0,44.0,3.5
+"Mashed potatoes, prepared",,210,1 cup (210 g),214,3.9,35.0,7.9
+Roasted potatoes,,150,1 cup (150 g),168,3.6,28.0,5.6
+"Brown rice, microwave pouch",,125,1/2 pouch (125 g),170,3.6,35.0,1.3
+Coleslaw (no dressing),,85,1 cup (85 g),25,1.3,6.0,0.1
+Coleslaw with dressing,,100,100 g,152,1.0,12.0,11.0
+Caesar salad (no chicken),,100,100 g,190,5.0,8.0,15.0
+Roasted carrots,,100,100 g,135,1.3,18.0,7.0
+Roasted broccoli,,100,100 g,90,4.0,10.0,5.0
+Sauteed spinach,,90,1 cup (90 g),75,5.0,5.0,4.0
+"Black coffee, brewed",,240,1 cup (240 g),2,0.3,0.0,0.0
+"Tea, brewed",,240,1 cup (240 g),2,0.0,0.0,0.0
+"Orange juice, no pulp",,248,1 cup (248 g),112,1.7,26.0,0.5
+"Ice cream, vanilla",,66,1/2 cup (66 g),137,2.3,16.0,7.3
+"Frozen yogurt, vanilla",,91,1/2 cup (91 g),144,4.0,24.0,2.5
+"Brownie, plain",,60,1 piece (60 g),243,3.1,34.0,10.9
