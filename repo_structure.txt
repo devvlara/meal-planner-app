@@ -1,0 +1,7 @@
+meal-planner-app/
+│
+├── SPEC.md               # your blueprint (the big .md file)
+├── DATA_DICTIONARY.md    # Bubble or DB field list
+├── FOODS_SEED.csv        # starter foods list for import
+├── WORKFLOWS.md          # Bubble workflows documented (generated w/ Claude)
+└── README.md             # high-level intro
