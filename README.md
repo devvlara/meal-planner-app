@@ -24,8 +24,7 @@ meal-planner-app/
 │
 ├── SPEC.md               # Full technical plan and app blueprint
 ├── DATA_DICTIONARY.md    # Bubble database schema (cleaned, grams-only)
-├── FOODS_SEED.csv        # Small starter food list (~20 items)
-├── FOODS_SEED_LARGE.csv  # Extended food list (~120 items)
+├── FOODS_SEED.csv        # Seed food list (~120 items, grams-only serving sizes)
 └── README.md             # This file
 ```
 
@@ -35,9 +34,7 @@ meal-planner-app/
 
 1. **Create a new Bubble app** (Blank template).
 2. Go to **Data → Data types** and recreate the schema in [`DATA_DICTIONARY.md`](./DATA_DICTIONARY.md).
-3. In **Data → App data → Upload**, import one of the food CSVs:
-   - [`FOODS_SEED.csv`](./FOODS_SEED.csv) → quick starter set.
-   - [`FOODS_SEED_LARGE.csv`](./FOODS_SEED_LARGE.csv) → full seed set (~120 items).
+3. In **Data → App data → Upload**, import [`FOODS_SEED.csv`](./FOODS_SEED.csv) into the Food table.
 4. Add **privacy rules**:  
    - User, NutritionTarget, MealPlan, Meal, MealComponent, FavoriteFood → only owner can read/write.  
    - Food (and optionally Recipe) → public read.
