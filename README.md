@@ -5,7 +5,7 @@ The app generates **3 meals per day for a full week**, lets the user approve the
 
 ---
 
-## 📌 Features (MVP)
+## Features (MVP)
 
 - **User Profiles**: First name, last name, email (Bubble built-in), age, sex, height (ft + in), weight (lb).  
 - **Targets**: Daily calories and macros (protein, carbs, fat).  
@@ -17,7 +17,7 @@ The app generates **3 meals per day for a full week**, lets the user approve the
 
 ---
 
-## 🗂 Repo Structure
+## Repo Structure
 
 ```
 meal-planner-app/
@@ -30,24 +30,8 @@ meal-planner-app/
 
 ---
 
-## 🛠 Setup in Bubble
 
-1. **Create a new Bubble app** (Blank template).
-2. Go to **Data → Data types** and recreate the schema in [`DATA_DICTIONARY.md`](./DATA_DICTIONARY.md).
-3. In **Data → App data → Upload**, import [`FOODS_SEED.csv`](./FOODS_SEED.csv) into the Food table.
-4. Add **privacy rules**:  
-   - User, NutritionTarget, MealPlan, Meal, MealComponent, FavoriteFood → only owner can read/write.  
-   - Food (and optionally Recipe) → public read.
-5. Build UI pages:
-   - Profile → capture age, sex, height (ft/in), weight (lb).  
-   - Targets → capture calorie + macro targets.  
-   - Favorites → search Foods and add to user’s favorites.  
-   - Plan Review → 7×3 grid, regenerate day or approve week.  
-   - Grocery List → toggle per-meal vs weekly, display all items in grams.
-
----
-
-## 🔍 Planner Logic (MVP Heuristic)
+## Planner Logic (MVP Heuristic)
 
 - Split daily calories 30/40/30 (breakfast/lunch/dinner).
 - Start each meal with a protein-rich favorite.
@@ -59,7 +43,7 @@ meal-planner-app/
 
 ---
 
-## 📊 Units & Conversions
+## Units & Conversions
 
 - **Height**: stored in feet/inches.  
 - **Weight**: stored in pounds.  
@@ -67,20 +51,5 @@ meal-planner-app/
   - `height_cm = height_ft*30.48 + height_in*2.54`  
   - `weight_kg = weight_lb*0.45359237`  
 - **Foods/Recipes/Grocery**: **grams-only** for storage and display.
-
----
-
-## ✅ Next Steps
-
-- Add simple **Recipes + RecipeIngredients** to test grocery expansion.  
-- Implement backend workflow (`generate_week_plan`) to create 7×3 plans.  
-- Build frontend UI flows for profile → targets → favorites → plan → grocery.  
-- Add an optional “Export grocery list” (CSV or PDF).
-
----
-
-## 📄 License
-
-MIT License (feel free to adapt for your own projects).
 
 ---
